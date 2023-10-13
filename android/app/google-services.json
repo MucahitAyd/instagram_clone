@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704497507277",
+    "project_id": "intsgram-clone",
+    "storage_bucket": "intsgram-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704497507277:android:092ff9016e9b6fcb6f4284",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704497507277-dvvmrm037nqcpsrg2gklgtvdlp41qcq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDslb_pt4i6r3UFPKA91DxMmHTq56w4IIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704497507277-dvvmrm037nqcpsrg2gklgtvdlp41qcq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
